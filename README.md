@@ -87,7 +87,7 @@ os.environ["GOOGLE_API_KEY"] = "your-gemini-api-key-here"
 
 4. **Run the simulation**
 ```bash
-python engine.py
+python Ai-vs-Ai.py
 ```
 
 ---
@@ -146,5 +146,5 @@ MIT License — feel free to use, modify, and build upon this.
 
 ## ✉️ Contact
 
-Made by [YourName].  
-For collab/API key sharing or LLM research, drop an issue or email.
+Made by [Swastik Ram].  
+For collab/API key sharing or LLM research, drop an issue or email ( deepml1818@gmail.com ).
