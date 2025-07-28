@@ -29,20 +29,6 @@ Built using Python and **Gemini 2.5 Flash**, this tool is designed for cybersecu
 
 ---
 
-## 📂 Project Structure
-
-```plaintext
-Ai-vs-Ai/
-├── attacker.py        # Red Team logic: prompt injection, payload crafting
-├── defender.py        # Blue Team logic: sanitization, classification, rebuttal
-├── engine.py          # Main simulation loop (turn-based exchange)
-├── config.py          # Centralized configuration and round setup
-├── utils.py           # Shared tools: logger, scoring, input sanitizer
-├── demo_report.md     # Auto-generated demo logs (editable)
-├── requirements.txt   # Dependencies
-└── README.md          # You're here
-```
-
 ---
 
 ## 🧠 AI Behavior Examples
